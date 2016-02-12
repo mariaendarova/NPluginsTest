@@ -2,8 +2,7 @@
     "dependencies": {
         "tns-core-modules": "1.5.1",
         "nativescript-mapbox": "1.1.1",
-        "nativescript-push-notifications": "0.0.15",
-        "nativescript-angular": "0.0.27"
+        "nativescript-push-notifications": "0.0.15"
     },
     "devDependencies": {}
 }
