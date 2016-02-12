@@ -1,12 +1,9 @@
 {
     "dependencies": {
         "tns-core-modules": "1.5.1",
-        "nativescript-mapbox": "1.1.1",
-        "nativescript-push-notifications": "0.0.15",
         "nativescript-screenshot": "0.0.2",
         "nativescript-social-share": "1.1.2",
-        "nativescript-sound": "1.0.4",
-        "nativescript-angular": "0.0.27"
+        "nativescript-sound": "1.0.4"
     },
     "devDependencies": {}
 }
